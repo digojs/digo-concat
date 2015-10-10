@@ -1,0 +1,16 @@
+{
+    "name": "digo-concat",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-concat",
+    "description": "digo 插件：合并文件",
+    "keywords": [
+        "digo plugin",
+        "concat",
+        "merge"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "files": [
+        "index.js"
+    ]
+}
